@@ -1,0 +1,165 @@
+https://www.linkedin.com/in/paramjot-k-2a477122/
+
+https://login.microsoftonline.com/404b1967-6507-45ab-8a6d-7374a3f478be/oauth2/authorize?client_id=00000003-0000-0ff1-ce00-000000000000&response_mode=form_post&response_type=code+id_token&resource=00000003-0000-0ff1-ce00-000000000000&scope=openid&nonce=C789C31FC030DFAADCC24AD5255756769CB50B4816138DDE-D522ED6571DD9AAD4F24E75C9FE13CE1D1C90F440D729EEBA68373D2AD2D4086&redirect_uri=https%3a%2f%2ftcscomprod-my.sharepoint.com%2f_forms%2fdefault.aspx&state=OD0w&login_hint=1273311%40TCS.com&claims=%7b%22id_token%22%3a%7b%22xms_cc%22%3a%7b%22values%22%3a%5b%22CP1%22%5d%7d%7d%7d&wsucxt=1&cobrandid=11bd8083-87e0-41b5-bb78-0bc43c8a8e8a&client-request-id=ef78a2a1-8036-5000-2ed8-e7a601408c61&sso_nonce=AwABEgEAAAADAOz_BQD0_zXgPXOQkuu-xByeGY5eNY1tOPPslnJirfFaH9HPgFXztJkZdaoOQKr2I9eBsGeAakVFHfUr2locKPLHYe10u-QgAA&mscrid=ef78a2a1-8036-5000-2ed8-e7a601408c61
+
+--
+Summarization
+teams meeting
+document
+conversation
+release reports
+ITSM 
+-RFP
+Generation 
+-Creative Product name , persona , 
+-write
+-blog
+-mail
+-portfolio
+-Job description ( talking )
+text
+video
+audio
+-RFP
+Classification
+product - label
+ticket
+CR
+incidents
+image
+sentiments
+Question Answer - chatbot
+Translation
+Prediction - 
+-stock
+-utilization
+-weather
+-product sale
+Anomaly detection
+-pattern identification
+-Fraud detection
+Clustering 
+-Customer Segments
+Translation
+-Legal / compliance----
+2010
+Excel Data(commodity hardware)
+Customer Churn analysis ( telecom )
+Predict Customer retention
+Algorithms Markov ( fields /patterns ) mathematical
+-1 hour
+-6 hour
+-12 hours 
+abort
+2011 , 2012
+free of cost 
+-Machine Learning
+---
+2010
+Excel Data(commodity hardware)
+Customer Churn analysis ( telecom )
+Predict Customer retention
+Algorithms Markov ( fields /patterns ) mathematical
+-1 hour
+-6 hour
+-12 hours 
+abort
+2011 , 2012
+free of cost 
+-Machine Learning
+
+--------
+2012 - 2013 - 2014
+Big Data
+2014 - 2015 Cognitive
+IBM Watson
+Weather Prediction
+Natural Language Expression - Intention
+Natural Language Understanding (NLU)
+Natural language processing ( NLP )
+Discovery analysis - text inputs(NLP) - Search on Enterprise Documents( custom annotation, personalized, data self service )
+chat bots (Application)
+Watson explorer
+prediction
+chatbot
+Backend
+python
+Democratization - Resources
+My Own Work
+2017 - 208
+review AI
+Sentiment analysis
+incident data
+classify incidents
+device
+predict downtime
+security data 
+Anamoly detection2012 - 2013 - 2014
+Big Data
+2014 - 2015 Cognitive
+IBM Watson
+Weather Prediction
+Natural Language Expression - Intention
+Natural Language Understanding (NLU)
+Natural language processing ( NLP )
+Discovery analysis - text inputs(NLP) - Search on Enterprise Documents( custom annotation, personalized, data self service )
+chat bots (Application)
+Watson explorer
+prediction
+chatbot
+Backend
+python
+Democratization - Resources
+My Own Work
+2017 - 208
+review AI
+Sentiment analysis
+incident data
+classify incidents
+device
+predict downtime
+security data 
+Anamoly detection
+---
+GPT
+generative
+2022 - use case relevant ( transformer / bert )
+2023 -2024
+GPU
+LLM
+processing
+training
+---
+RAG - Search on Enterprise Documents
+AI Agents
+--
+Translation API (restriction, length)
+translation API ( translating Natural Language expression in lang1 to lang2,)
+--
+Hardware ?
+Software ?
+ROI ? 
+Manforce ?
+--
+machines which understand human expression(multiple inputs) and take the sensible intelligent decision/appropriate following action.
+
+
+ machines which understand human expression(multiple inputs) and take the sensible intelligent decision/appropriate following action.
+
+--
+use technology to solve business problem, to multiply the benefits to add value
+Automation which Blind to Natural Language Expression 
+lacks intelligence / understanding / processing Natural Language Expression
+NLU
+NLP
+RPA - Robotic process automation - automate
+If param says "Hello" then run a script to print back "Hello"
+If param says "Hi" then run a script to print back "Hello"
+If param says "Hola" then run a script to print back "Hello"
+---
+Artificial intelligence
+machines which understand human expression(multiple inputs) and take the sensible intelligent decision/appropriate following action.
+--
+
+
+----
