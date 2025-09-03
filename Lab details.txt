@@ -1,0 +1,83 @@
+For Lab details, recordings,course, meeting link and qubits etc. please login here your "LET panel"..
+https://www.mykoenig.com/
+user name-your Registered-email id
+password -221562 (OTP)
+
+https://learn.microsoft.com/en-us/users/me/achievements?source=learn&redeem=7VN4JG&WT.mc_id=ilt_partner_webpage_wwl&ocid=508978&DCS=DEPR2511006
+
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTA4ZGQyODctYTE4MC00YjViLTkxMDEtYWZmMTg1MDZlYTU3%40thread.v2/0?context=%7b%22Tid%22%3a%2298deb14a-8f2f-48b2-807f-8a97c96a0ca3%22%2c%22Oid%22%3a%220f7ac5b3-3156-45d6-b599-5136ab823379%22%7d
+
+
+https://knome.ultimatix.net/app/blogposts/892460
+
+
+The difference between a VNet (Virtual Network) and a subnet is mainly about scope and structure in a cloud network (like Azure or AWS VPC, which is conceptually similar):
+🔹 VNet (Virtual Network)
+What it is: A VNet is the top-level isolated network environment in a cloud platform.
+Purpose: Provides a private network space for your resources (VMs, databases, etc.).
+CIDR Range: You define a large IP address range (e.g., 10.0.0.0/16).
+Function: Think of it like your entire virtual data center or LAN in the cloud.
+🔸 Subnet
+What it is: A subdivision of the VNet’s IP space.
+Purpose: Helps you segment the network for organization, security, and routing (e.g., front-end vs. back-end).
+CIDR Range: A smaller block within the VNet (e.g., 10.0.1.0/24).
+Function: Like putting different departments or tiers of an app into separate rooms inside the same building.
+
+----------------------------------------------
+PL-300 session notes
+https://learn.microsoft.com/en-us/power-bi/collaborate-share/service-roles-new-workspaces
+
+https://drive.google.com/file/d/1MRgX_8-UUsCuWI8Bd2qlVyV18WZSEAdC/view?usp=drivesdk
+
+https://app.powerbi.com/Redirect?action=OpenApp&appId=da6cb321-d4f3-4eb3-9cad-52a56e99dbd6&ctid=44d775b8-ffab-4fb4-b25d-38f260ccf584&experience=power-bi
+
+https://drive.google.com/file/d/1MRgX_8-UUsCuWI8Bd2qlVyV18WZSEAdC/view?usp=drivesdk
+
+Imp Links :- 
+LET portal and recordings : https://www.mykoenig.com/
+Lab : https://gsi.learnondemand.net/Class/703062
+Attendance : https://rms-new.netlify.app/third_party?batch_header=232412
+Notes Web Link : https://drive.google.com/file/d/1MRgX_8-UUsCuWI8Bd2qlVyV18WZSEAdC/view?usp=drivesdk
+LEARNING ENHANCEMENT TOOL - Koenig Solutions
+
+https://learn.microsoft.com/en-us/users/me/achievements?redeem=LVLY4P&WT.mc_id=ilt_partner_webpage_wwl&ocid=508978&DCS=DEPR2610149
+https://learn.microsoft.com/en-us/users/me/achievements?redeem=LVLY4P&WT.mc_id=ilt_partner_webpage_wwl&ocid=508978&DCS=DEPR2610149 
+
+
+-----
+
+DP-700 Session - TCS - 16th to 25th June 2025 - 9:30 AM to 12:30 PM IST
+Steps for Accessing the recordings:
+
+Using this link Register for the Test Prep using Corporate Mail ID if not done previously - https://testprep.cloudthat.com/login/signup.php 
+Click on the Link given here to access the recordings - https://testprep.cloudthat.com/course/view.php?id=3243
+Sign In using the same credentials which you used to register.
+Provide the Enrolment key (code) - tvZsJaejY6 in the space provided.
+You will be able to see the Recordings with this title - 2520800_TCS_DP-700_Prabhkar_Morning_IST
+ 
+NOTE - It might take 24-48 hours for the recording to be uploaded.
+ 
+It cannot be downloaded, It is view only.
+ 
+The recording access will be there for 1 month after the last day of the training.
+
+As part of your Microsoft Learning Journey Az-104, you are required to redeem the Learner Achievement Code URL and add the achievement to your profile before the end of class. 
+Course Achievement Badge URL Link -  https://learn.microsoft.com/users/me/achievements?redeem=49V369&WT.mc_id=ilt_partner_webpage_wwl&ocid=3103897&DCS=DEPR2550419
+Please go thru the document and follow the steps to redeem the Course Achievement Badge URL. Once you redeem the code, please share the screenshot in the chat section. 
+Steps to redeem the code.
+1. Click on the Course Achievement Badge URL Link in the incognito mode
+2. Sign in with your personal Microsoft ID (outlook,live, Hotmail). Do not use your official ID
+3. If you do not have Microsoft ID, Please create one and sign in
+4. Copy and paste the link into another window.
+5. Pop up screen will appear to redeem the badge.
+6. Once redeemed go to Achievement->under Courses you will be able to see the badge.
+7. Click on the print icon and share the screenshot.
+Profile.
+
+Challenge Lab - Instructions
+Open the Project folder on the desktop, and then open the challenge folder which contains the problem statement.
+Double click the ProblemStatement.txt file and open in browser to view the problem statement and solve the challenge.
+Note: You will be able to type in the terminal only after viewing the credentials.
+
+labuser
+blueFly44$
